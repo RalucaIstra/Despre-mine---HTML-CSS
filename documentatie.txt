@@ -1,0 +1,18 @@
+Documentatie:
+
+PAGINA MAIN
+-comenzile pentru css le-am pus in style.css si le.am adugat ca link in documentul html
+-in head am folosit - meta charset pentru diacritice,etc
+		    -meta name pentru a mi le face pentru laptop/telefon
+		    -link.. pentru a lua comezile de style din style.css
+-pentru a ma deplasa in celelalte pagini am folosit link-uri si le am pus intr-un tabel pentru aspect
+-datele mele personale au fost adaugate de asemenea intr-un tabel
+-pozele au fost asezate cu ajutorul css 
+
+PAGINA 1
+-inceputul este identic ca cel din main
+-am folosit o lista pentru a pune in ordine ce este pe pagina
+-fiecare element de pe lista duce la partea unde se afla detaliile despre respectiva chestie de pe pagina
+
+PAGINA 2
+-inceputul este identic ca cel din main

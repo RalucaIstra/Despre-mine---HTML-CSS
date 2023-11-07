@@ -1,0 +1,365 @@
+
+
+.mainbody{
+    background: url(images/pattern.jpg) repeat;
+    text-align: center;
+    color: #333;
+
+}
+
+.header{
+    font-family: Georgia, "Times New Roman", Times, sherif;
+}
+/*bara de navigatie*/
+.nav{
+    background-color: #333;
+    display: inline-block;
+    left: 100px;
+}
+
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+
+.nav a.active {
+    background-color: white;
+    color: #333;
+  }
+
+.istrati1 {
+    width: 50%;
+    height: 50%;
+  }
+  
+  img {
+    width: 100%;
+    height: 100%;
+  }
+
+.all{
+    width: 1500x;
+   
+}
+
+/*partea introductiva*/
+.side{
+    font-family: Georgia, "Times New Roman", Times, sherif;
+    color: #333;
+    text-align: center;
+    position: absolute;
+    top: 210px;
+    width: 500px;
+    padding:0 10px 0 10px;
+  
+}
+
+#h2{
+    text-align: center;
+}
+
+.tables{
+    font-family: Georgia, "Times New Roman", Times, sherif;
+    padding: 15px;
+}
+
+tr, td {
+    padding: 7px 10px 10px 10px;
+}
+
+tr{
+    letter-spacing: 0.2em;
+    font-size: 90%;
+    border-bottom: 2px solid #333;
+    border-top: 1px solid #333;
+    text-align: left;
+}
+
+tr.even{
+    background-color: #333;
+    color: white;
+}
+
+/*partea oficiala*/
+.main{
+    width: 1000px;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+    text-align: left;
+    color:#333
+}
+
+.poza2 {
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+  img{
+    width: 50%;
+    height: 50%;
+  }
+
+.mainh2{
+    text-align: center;
+}
+
+/*copyright*/
+.footer{
+    width: 1300px;
+    position: absolute;
+    margin-left: auto;
+    top: 40px;
+    text-align: center;
+}
+
+
+.copyright{
+    color:#333
+}
+
+
+
+
+.firstbody{
+    background: url(images/pattern.jpg) repeat;
+    text-align: center;
+    color: #333;
+    font-family: Georgia, "Times New Roman", Times, sherif;
+
+}
+  
+
+.nav1{
+    background-color: #333;
+    display: inline-block;
+    left: 100px;
+}
+
+.nav1 a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+
+.nav1 a.active {
+    background-color: white;
+    color: #333;
+  }
+
+.sideleft1{
+  color: #333;
+  text-align: left;
+  position: absolute;
+  top: 210px;
+  width: 500px;
+  padding:0 10px 0 10px;
+  list-style-type: decimal;
+}
+
+.main1{
+  color: #333;
+  text-align: center;
+  position: absolute;
+  width: 900px;
+  left: 350px;
+  top: 200px;
+  
+}
+/*sa fac linkuri in pagina*/
+
+#textlista {
+    font-style: italic;
+}
+
+#text1, #text2, #text3, #text4, #text5, #text6, #text7, #text8, #text9, #text10{
+    text-align: left;
+}
+/*poze*/
+.picatura {
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+  }
+  
+  img {
+    width: 100%;
+    height: 100%;
+  }
+
+.alergpentrumama {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+       
+     }
+     
+     img {
+       width: 100%;
+       height: 100%;
+     }
+
+.aiq {
+        display: block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 50%;
+           
+         }
+         
+         img {
+           width: 100%;
+           height: 100%;
+         }
+
+.sericulturale {
+        display: block;
+             margin-left: auto;
+             margin-right: auto;
+             width: 50%;
+               
+        }
+             
+        img {
+               width: 100%;
+               height: 100%;
+             }
+
+.zoomin { 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+                   
+            }
+                 
+        img {
+                   width: 100%;
+                   height: 100%;
+                 }
+
+.excursii { 
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+                           
+                    }
+                         
+        img {
+            width: 100%;
+            height: 100%;
+                         }
+            
+/*copyright 2*/
+.footer1{
+  width: 1300px;
+  position: absolute;
+  left: 25px;
+  top: 3300px;
+  text-align: center;
+}
+
+
+.secondbody{
+    background: url(images/pattern.jpg) repeat;
+    text-align: center;
+    color: #333;
+    font-family: Georgia, "Times New Roman", Times, sherif;
+
+}
+
+.lastp{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Georgia, "Times New Roman", Times, sherif;
+
+}
+
+.nav2{
+    background-color: #333;
+    display: inline-block;
+    left: 100px;
+}
+
+.nav2 a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+
+.nav2 a.active {
+    background-color: white;
+    color: #333;
+  }
+
+.vl{
+    border-top: 3px solid #333;
+  
+}
+
+.header2{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    top: auto;
+}
+
+.contactusbody{
+    background: url(images/pattern.jpg) repeat;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    top: 500px;
+ 
+}
+
+.nav3 {
+    background-color: #333;
+    display: inline-block;
+    left: 100px;
+}
+
+.nav3 a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+
+.nav3 a.active {
+    background-color: white;
+    color: #333;
+  }
+  
+
+  .footercontact{
+  
+    color:#333;
+    top: 600px;
+    text-align: center;
+  }
+}
+  
+
